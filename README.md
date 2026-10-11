@@ -1,23 +1,23 @@
-# Python for Data Science — Variables and Data Types
+# Task 2: Conditional Statements for Data Decisions
 
 ## Objective
-To build a strong foundation in Python data types and variables for data science.
+To understand how conditional statements are used to make decisions based on numerical and categorical data.
 
 ## Tools Used
 - Python
 - Google Colab
 
 ## Topics Covered
-- Variables and built-in data types
-- Integers, floats, strings, and booleans
-- Lists, tuples, sets, and dictionaries
-- Type conversion
-- Basic arithmetic operations
-- Student marks and average calculation
+- if, elif, and else statements
+- Comparison operators
+- Multiple conditions using and and or
+- Pass/Fail classification
+- Salary and student performance categories
+- Practical decision-making examples
 
 ## Deliverables
-- Task1_Python_Data_Types.ipynb
+- Task2_Conditional_Statements.ipynb
 - README.md
 
 ## Conclusion
-This task demonstrates Python data types, type conversion, and basic operations through practical examples, including student performance analysis.
+This project demonstrates Python conditional logic through practical examples and a classification program.
