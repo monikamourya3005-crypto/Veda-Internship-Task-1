@@ -1,0 +1,501 @@
+Customer_ID,Age,Interest,Engagement_Score,Service_Inquiries,Monthly_Spending,Interactions,Course_Completion_Rate,Engagement_Level,Spending_Level,Interaction_Rate,Cluster,Customer_Segment,Recommended_Service
+1,46,Cloud Computing,28,6,1119,12,56,Low,Low,1.7142857142857142,2,Low Engagement Customers,Beginner Learning Program + Cloud Computing Fundamentals
+2,32,Data Science,85,9,1774,32,36,High,Low,3.2,3,Highly Engaged Customers,Recommended Learning Program: Data Science Training Program
+3,25,Python Programming,49,9,1456,32,57,Medium,Low,3.2,0,Developing Customers,Recommended Learning Program: Advanced Python Programming Course
+4,38,Data Science,71,15,2439,28,20,High,Low,1.75,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+5,36,Data Science,81,10,4453,13,81,High,Low,1.1818181818181819,2,Low Engagement Customers,Advanced Learning Program + Data Science Training Program
+6,40,Cloud Computing,84,4,11073,31,68,High,High,6.2,0,Developing Customers,Recommended Learning Program: Cloud Computing Fundamentals
+7,28,Python Programming,49,13,1468,14,2,Medium,Low,1.0,3,Highly Engaged Customers,Personalized Service Consultation + Advanced Python Programming Course
+8,28,Python Programming,20,6,10008,20,86,Low,High,2.857142857142857,2,Low Engagement Customers,Beginner Learning Program + Advanced Python Programming Course
+9,41,Python Programming,86,14,9735,18,89,High,Medium,1.2,3,Highly Engaged Customers,Advanced Learning Program + Advanced Python Programming Course
+10,53,AI and ML,92,1,781,29,36,High,Low,14.5,1,Active Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+11,41,Cloud Computing,63,3,11536,6,87,Medium,High,1.5,2,Low Engagement Customers,Advanced Learning Program + Cloud Computing Fundamentals
+12,20,Python Programming,61,1,6762,32,48,Medium,Medium,16.0,1,Active Customers,Recommended Learning Program: Advanced Python Programming Course
+13,39,AI and ML,49,13,1558,29,18,Medium,Low,2.0714285714285716,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+14,19,Web Development,71,12,4793,43,88,High,Low,3.3076923076923075,0,Developing Customers,Advanced Learning Program + Full Stack Web Development Program
+15,41,Web Development,1,12,11224,2,84,Low,High,0.15384615384615385,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+16,47,AI and ML,96,11,12520,23,11,High,High,1.9166666666666667,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+17,19,AI and ML,13,6,5678,19,60,Low,Medium,2.7142857142857144,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+18,38,Cloud Computing,94,1,7480,31,40,High,Medium,15.5,1,Active Customers,Recommended Learning Program: Cloud Computing Fundamentals
+19,50,Cloud Computing,87,15,13972,5,32,High,High,0.3125,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+20,29,Web Development,51,12,9700,19,49,Medium,Medium,1.4615384615384615,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+21,39,Python Programming,56,13,1729,34,67,Medium,Low,2.4285714285714284,0,Developing Customers,Personalized Service Consultation + Advanced Python Programming Course
+22,42,Web Development,83,10,9727,10,70,High,Medium,0.9090909090909091,3,Highly Engaged Customers,Recommended Learning Program: Full Stack Web Development Program
+23,44,Python Programming,62,0,5085,25,85,Medium,Medium,25.0,1,Active Customers,Advanced Learning Program + Advanced Python Programming Course
+24,45,Python Programming,32,8,8967,2,32,Low,Medium,0.2222222222222222,2,Low Engagement Customers,Beginner Learning Program + Advanced Python Programming Course
+25,33,Cloud Computing,30,0,3240,11,80,Low,Low,11.0,2,Low Engagement Customers,Beginner Learning Program + Cloud Computing Fundamentals
+26,32,Data Science,29,7,2789,50,23,Low,Low,6.25,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+27,20,Data Science,49,14,1739,31,60,Medium,Low,2.066666666666667,0,Developing Customers,Personalized Service Consultation + Data Science Training Program
+28,54,AI and ML,45,1,5870,15,60,Medium,Medium,7.5,2,Low Engagement Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+29,24,Cloud Computing,93,11,625,9,97,High,Low,0.75,2,Low Engagement Customers,Advanced Learning Program + Cloud Computing Fundamentals
+30,38,Python Programming,30,15,12757,23,27,Low,High,1.4375,3,Highly Engaged Customers,Beginner Learning Program + Advanced Python Programming Course
+31,26,Data Science,16,7,13004,19,57,Low,High,2.375,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+32,35,Python Programming,40,12,7973,9,42,Medium,Medium,0.6923076923076923,3,Highly Engaged Customers,Personalized Service Consultation + Advanced Python Programming Course
+33,21,Data Science,19,2,12560,35,40,Low,High,11.666666666666666,1,Active Customers,Beginner Learning Program + Data Science Training Program
+34,42,Data Science,18,15,9900,21,38,Low,Medium,1.3125,3,Highly Engaged Customers,Beginner Learning Program + Data Science Training Program
+35,31,Data Science,1,5,5842,9,85,Low,Medium,1.5,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+36,26,Cloud Computing,78,2,7851,28,48,High,Medium,9.333333333333334,2,Low Engagement Customers,Recommended Learning Program: Cloud Computing Fundamentals
+37,43,Web Development,47,13,7138,46,16,Medium,Medium,3.2857142857142856,0,Developing Customers,Personalized Service Consultation + Full Stack Web Development Program
+38,19,Python Programming,66,6,7070,7,97,Medium,Medium,1.0,2,Low Engagement Customers,Advanced Learning Program + Advanced Python Programming Course
+39,37,Cloud Computing,92,9,3749,16,69,High,Low,1.6,3,Highly Engaged Customers,Recommended Learning Program: Cloud Computing Fundamentals
+40,45,Cloud Computing,94,8,9610,16,69,High,Medium,1.7777777777777777,3,Highly Engaged Customers,Recommended Learning Program: Cloud Computing Fundamentals
+41,24,Cloud Computing,38,15,8095,33,97,Medium,Medium,2.0625,0,Developing Customers,Advanced Learning Program + Cloud Computing Fundamentals
+42,25,Cloud Computing,51,1,14105,4,64,Medium,High,2.0,2,Low Engagement Customers,Recommended Learning Program: Cloud Computing Fundamentals
+43,52,Cloud Computing,63,14,12615,4,73,Medium,High,0.26666666666666666,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+44,31,AI and ML,4,11,6794,39,84,Low,Medium,3.25,0,Developing Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+45,34,Python Programming,1,11,7027,40,4,Low,Medium,3.3333333333333335,0,Developing Customers,Beginner Learning Program + Advanced Python Programming Course
+46,53,Cloud Computing,8,14,6257,17,1,Low,Medium,1.1333333333333333,3,Highly Engaged Customers,Beginner Learning Program + Cloud Computing Fundamentals
+47,21,Python Programming,29,13,13095,37,21,Low,High,2.642857142857143,3,Highly Engaged Customers,Beginner Learning Program + Advanced Python Programming Course
+48,19,AI and ML,55,4,14147,39,56,Medium,High,7.8,2,Low Engagement Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+49,23,AI and ML,3,12,2469,29,65,Low,Low,2.230769230769231,0,Developing Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+50,21,Python Programming,32,5,11485,36,73,Low,High,6.0,2,Low Engagement Customers,Beginner Learning Program + Advanced Python Programming Course
+51,46,Data Science,10,3,1391,38,97,Low,Low,9.5,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+52,35,Web Development,74,3,4970,39,15,High,Low,9.75,1,Active Customers,Recommended Learning Program: Full Stack Web Development Program
+53,43,Data Science,83,15,7675,50,50,High,Medium,3.125,0,Developing Customers,Personalized Service Consultation + Data Science Training Program
+54,51,Data Science,34,3,10725,37,38,Low,High,9.25,1,Active Customers,Beginner Learning Program + Data Science Training Program
+55,27,Data Science,97,1,10056,35,85,High,High,17.5,1,Active Customers,Advanced Learning Program + Data Science Training Program
+56,53,Cloud Computing,87,3,8820,7,75,High,Medium,1.75,2,Low Engagement Customers,Recommended Learning Program: Cloud Computing Fundamentals
+57,31,AI and ML,55,10,9706,27,87,Medium,Medium,2.4545454545454546,0,Developing Customers,Advanced Learning Program + Artificial Intelligence and ML Program
+58,48,Data Science,92,15,10491,28,39,High,High,1.75,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+59,32,AI and ML,32,0,7312,22,37,Low,Medium,22.0,1,Active Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+60,25,Python Programming,50,11,8019,14,59,Medium,Medium,1.1666666666666667,2,Low Engagement Customers,Personalized Service Consultation + Advanced Python Programming Course
+61,31,Web Development,7,5,14169,7,58,Low,High,1.1666666666666667,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+62,40,Python Programming,93,0,5112,37,9,High,Medium,37.0,1,Active Customers,Recommended Learning Program: Advanced Python Programming Course
+63,38,Python Programming,8,9,10210,22,98,Low,High,2.2,2,Low Engagement Customers,Beginner Learning Program + Advanced Python Programming Course
+64,33,Cloud Computing,65,5,12873,5,63,Medium,High,0.8333333333333334,2,Low Engagement Customers,Recommended Learning Program: Cloud Computing Fundamentals
+65,35,Web Development,57,0,1698,2,62,Medium,Low,2.0,2,Low Engagement Customers,Recommended Learning Program: Full Stack Web Development Program
+66,41,Python Programming,67,5,12565,27,48,Medium,High,4.5,3,Highly Engaged Customers,Recommended Learning Program: Advanced Python Programming Course
+67,43,Python Programming,88,9,5738,21,63,High,Medium,2.1,3,Highly Engaged Customers,Recommended Learning Program: Advanced Python Programming Course
+68,42,Web Development,87,7,11166,38,31,High,High,4.75,3,Highly Engaged Customers,Recommended Learning Program: Full Stack Web Development Program
+69,46,Web Development,59,10,6589,15,6,Medium,Medium,1.3636363636363635,3,Highly Engaged Customers,Recommended Learning Program: Full Stack Web Development Program
+70,32,Python Programming,72,1,12177,21,20,High,High,10.5,1,Active Customers,Recommended Learning Program: Advanced Python Programming Course
+71,18,Web Development,54,1,6757,10,19,Medium,Medium,5.0,2,Low Engagement Customers,Recommended Learning Program: Full Stack Web Development Program
+72,42,Python Programming,67,13,12741,23,25,Medium,High,1.6428571428571428,3,Highly Engaged Customers,Personalized Service Consultation + Advanced Python Programming Course
+73,24,Python Programming,51,15,8205,39,67,Medium,Medium,2.4375,0,Developing Customers,Personalized Service Consultation + Advanced Python Programming Course
+74,26,Cloud Computing,97,14,4219,5,85,High,Low,0.3333333333333333,3,Highly Engaged Customers,Advanced Learning Program + Cloud Computing Fundamentals
+75,41,Data Science,92,12,802,1,14,High,Low,0.07692307692307693,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+76,18,Python Programming,8,11,12644,13,84,Low,High,1.0833333333333333,2,Low Engagement Customers,Beginner Learning Program + Advanced Python Programming Course
+77,25,AI and ML,34,3,13375,21,78,Low,High,5.25,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+78,41,Data Science,35,10,1486,26,85,Low,Low,2.3636363636363638,0,Developing Customers,Advanced Learning Program + Data Science Training Program
+79,28,Data Science,96,2,10555,50,91,High,High,16.666666666666668,1,Active Customers,Advanced Learning Program + Data Science Training Program
+80,34,Data Science,88,3,4940,45,13,High,Low,11.25,1,Active Customers,Recommended Learning Program: Data Science Training Program
+81,25,Cloud Computing,78,12,5409,21,26,High,Medium,1.6153846153846154,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+82,52,Python Programming,32,11,14775,18,39,Low,High,1.5,3,Highly Engaged Customers,Beginner Learning Program + Advanced Python Programming Course
+83,52,Cloud Computing,46,6,3572,37,57,Medium,Low,5.285714285714286,0,Developing Customers,Recommended Learning Program: Cloud Computing Fundamentals
+84,50,Python Programming,16,12,14098,45,27,Low,High,3.4615384615384617,0,Developing Customers,Beginner Learning Program + Advanced Python Programming Course
+85,22,Cloud Computing,68,10,14787,32,25,Medium,High,2.909090909090909,3,Highly Engaged Customers,Recommended Learning Program: Cloud Computing Fundamentals
+86,45,Cloud Computing,37,0,14465,36,62,Medium,High,36.0,1,Active Customers,Recommended Learning Program: Cloud Computing Fundamentals
+87,24,AI and ML,54,5,3624,17,65,Medium,Low,2.8333333333333335,2,Low Engagement Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+88,26,Cloud Computing,85,14,10019,35,24,High,High,2.3333333333333335,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+89,25,Web Development,14,14,13880,49,2,Low,High,3.2666666666666666,3,Highly Engaged Customers,Beginner Learning Program + Full Stack Web Development Program
+90,29,AI and ML,95,15,11100,11,71,High,High,0.6875,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+91,51,Cloud Computing,55,2,12365,21,43,Medium,High,7.0,2,Low Engagement Customers,Recommended Learning Program: Cloud Computing Fundamentals
+92,50,Data Science,48,10,8625,26,96,Medium,Medium,2.3636363636363638,0,Developing Customers,Advanced Learning Program + Data Science Training Program
+93,40,Web Development,82,9,3791,4,41,High,Low,0.4,3,Highly Engaged Customers,Recommended Learning Program: Full Stack Web Development Program
+94,41,Web Development,7,6,4533,34,98,Low,Low,4.857142857142857,0,Developing Customers,Beginner Learning Program + Full Stack Web Development Program
+95,54,Web Development,74,9,5605,48,5,High,Medium,4.8,0,Developing Customers,Recommended Learning Program: Full Stack Web Development Program
+96,52,AI and ML,7,1,1203,18,38,Low,Low,9.0,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+97,39,Cloud Computing,33,13,8633,40,51,Low,Medium,2.857142857142857,0,Developing Customers,Beginner Learning Program + Cloud Computing Fundamentals
+98,44,Cloud Computing,23,1,1074,35,22,Low,Low,17.5,1,Active Customers,Beginner Learning Program + Cloud Computing Fundamentals
+99,52,Data Science,85,12,6204,41,88,High,Medium,3.1538461538461537,0,Developing Customers,Advanced Learning Program + Data Science Training Program
+100,18,Data Science,19,3,11924,29,49,Low,High,7.25,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+101,52,Web Development,19,0,8348,29,42,Low,Medium,29.0,1,Active Customers,Beginner Learning Program + Full Stack Web Development Program
+102,54,Data Science,36,2,5708,38,18,Medium,Medium,12.666666666666666,1,Active Customers,Recommended Learning Program: Data Science Training Program
+103,31,AI and ML,29,12,13475,42,68,Low,High,3.230769230769231,0,Developing Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+104,20,Cloud Computing,60,8,7424,21,50,Medium,Medium,2.3333333333333335,2,Low Engagement Customers,Recommended Learning Program: Cloud Computing Fundamentals
+105,18,Web Development,82,6,11324,42,10,High,High,6.0,3,Highly Engaged Customers,Recommended Learning Program: Full Stack Web Development Program
+106,22,Data Science,2,14,4328,13,11,Low,Low,0.8666666666666667,3,Highly Engaged Customers,Beginner Learning Program + Data Science Training Program
+107,43,AI and ML,1,6,3730,49,73,Low,Low,7.0,0,Developing Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+108,31,AI and ML,47,12,988,41,7,Medium,Low,3.1538461538461537,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+109,44,Data Science,69,12,7614,17,23,Medium,Medium,1.3076923076923077,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+110,26,Cloud Computing,20,10,10039,9,91,Low,High,0.8181818181818182,2,Low Engagement Customers,Beginner Learning Program + Cloud Computing Fundamentals
+111,32,Data Science,11,3,12373,41,40,Low,High,10.25,1,Active Customers,Beginner Learning Program + Data Science Training Program
+112,32,Web Development,2,15,3673,1,35,Low,Low,0.0625,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+113,43,Data Science,67,1,13281,2,100,Medium,High,1.0,2,Low Engagement Customers,Advanced Learning Program + Data Science Training Program
+114,30,AI and ML,87,14,2167,48,84,High,Low,3.2,0,Developing Customers,Advanced Learning Program + Artificial Intelligence and ML Program
+115,49,Data Science,12,13,10329,29,71,Low,High,2.0714285714285716,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+116,49,Cloud Computing,20,3,4614,33,54,Low,Low,8.25,0,Developing Customers,Beginner Learning Program + Cloud Computing Fundamentals
+117,21,Python Programming,5,5,4053,10,8,Low,Low,1.6666666666666667,2,Low Engagement Customers,Beginner Learning Program + Advanced Python Programming Course
+118,47,Data Science,37,10,8261,50,46,Medium,Medium,4.545454545454546,0,Developing Customers,Recommended Learning Program: Data Science Training Program
+119,54,Cloud Computing,38,10,1500,40,14,Medium,Low,3.6363636363636362,0,Developing Customers,Recommended Learning Program: Cloud Computing Fundamentals
+120,40,Cloud Computing,94,2,9542,21,47,High,Medium,7.0,2,Low Engagement Customers,Recommended Learning Program: Cloud Computing Fundamentals
+121,32,AI and ML,9,0,1888,28,81,Low,Low,28.0,1,Active Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+122,46,Cloud Computing,98,13,5950,11,41,High,Medium,0.7857142857142857,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+123,53,Cloud Computing,53,11,4212,34,59,Medium,Low,2.8333333333333335,0,Developing Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+124,30,Cloud Computing,44,7,1867,8,83,Medium,Low,1.0,2,Low Engagement Customers,Advanced Learning Program + Cloud Computing Fundamentals
+125,49,Cloud Computing,99,11,8689,22,69,High,Medium,1.8333333333333333,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+126,24,Web Development,86,12,9513,8,11,High,Medium,0.6153846153846154,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+127,39,Web Development,24,4,954,49,1,Low,Low,9.8,1,Active Customers,Beginner Learning Program + Full Stack Web Development Program
+128,45,AI and ML,81,14,10316,15,6,High,High,1.0,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+129,19,Data Science,74,15,3272,17,79,High,Low,1.0625,3,Highly Engaged Customers,Advanced Learning Program + Data Science Training Program
+130,23,Cloud Computing,30,4,4226,23,2,Low,Low,4.6,2,Low Engagement Customers,Beginner Learning Program + Cloud Computing Fundamentals
+131,45,Data Science,59,10,7732,24,2,Medium,Medium,2.1818181818181817,3,Highly Engaged Customers,Recommended Learning Program: Data Science Training Program
+132,45,Data Science,87,3,11839,45,26,High,High,11.25,1,Active Customers,Recommended Learning Program: Data Science Training Program
+133,37,AI and ML,96,5,12781,19,39,High,High,3.1666666666666665,3,Highly Engaged Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+134,47,Cloud Computing,81,2,5306,5,32,High,Medium,1.6666666666666667,2,Low Engagement Customers,Recommended Learning Program: Cloud Computing Fundamentals
+135,28,Cloud Computing,81,8,2690,32,91,High,Low,3.5555555555555554,0,Developing Customers,Advanced Learning Program + Cloud Computing Fundamentals
+136,45,Python Programming,14,4,9608,44,0,Low,Medium,8.8,1,Active Customers,Beginner Learning Program + Advanced Python Programming Course
+137,42,Data Science,9,2,12678,1,7,Low,High,0.3333333333333333,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+138,50,Data Science,40,10,3375,23,100,Medium,Low,2.090909090909091,0,Developing Customers,Advanced Learning Program + Data Science Training Program
+139,18,Web Development,66,0,6092,37,31,Medium,Medium,37.0,1,Active Customers,Recommended Learning Program: Full Stack Web Development Program
+140,44,Python Programming,25,9,1940,8,47,Low,Low,0.8,2,Low Engagement Customers,Beginner Learning Program + Advanced Python Programming Course
+141,30,Web Development,73,11,13092,13,100,High,High,1.0833333333333333,2,Low Engagement Customers,Advanced Learning Program + Full Stack Web Development Program
+142,20,Web Development,22,5,9427,8,3,Low,Medium,1.3333333333333333,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+143,23,Web Development,4,14,12260,23,93,Low,High,1.5333333333333334,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+144,25,AI and ML,26,1,6559,43,69,Low,Medium,21.5,1,Active Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+145,44,AI and ML,58,12,14937,1,18,Medium,High,0.07692307692307693,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+146,26,Web Development,29,2,14797,45,31,Low,High,15.0,1,Active Customers,Beginner Learning Program + Full Stack Web Development Program
+147,54,Python Programming,98,15,12030,24,8,High,High,1.5,3,Highly Engaged Customers,Personalized Service Consultation + Advanced Python Programming Course
+148,50,Data Science,87,0,7510,35,11,High,Medium,35.0,1,Active Customers,Recommended Learning Program: Data Science Training Program
+149,41,Python Programming,37,8,11707,24,10,Medium,High,2.6666666666666665,3,Highly Engaged Customers,Recommended Learning Program: Advanced Python Programming Course
+150,32,Cloud Computing,75,7,7617,17,45,High,Medium,2.125,3,Highly Engaged Customers,Recommended Learning Program: Cloud Computing Fundamentals
+151,49,AI and ML,70,11,11581,5,15,Medium,High,0.4166666666666667,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+152,49,Data Science,18,1,9653,20,0,Low,Medium,10.0,1,Active Customers,Beginner Learning Program + Data Science Training Program
+153,41,Data Science,85,14,3489,21,62,High,Low,1.4,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+154,29,Cloud Computing,42,11,12540,40,20,Medium,High,3.3333333333333335,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+155,19,Cloud Computing,100,15,9718,31,29,High,Medium,1.9375,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+156,20,Web Development,41,10,6728,46,12,Medium,Medium,4.181818181818182,3,Highly Engaged Customers,Recommended Learning Program: Full Stack Web Development Program
+157,54,AI and ML,38,7,12557,36,33,Medium,High,4.5,0,Developing Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+158,34,AI and ML,34,11,6971,11,3,Low,Medium,0.9166666666666666,3,Highly Engaged Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+159,19,Python Programming,17,13,3363,15,27,Low,Low,1.0714285714285714,3,Highly Engaged Customers,Beginner Learning Program + Advanced Python Programming Course
+160,19,Web Development,37,8,14261,19,94,Medium,High,2.111111111111111,2,Low Engagement Customers,Advanced Learning Program + Full Stack Web Development Program
+161,45,Web Development,25,0,11193,7,58,Low,High,7.0,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+162,40,Web Development,76,12,10639,28,26,High,High,2.1538461538461537,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+163,54,Web Development,87,4,1677,43,68,High,Low,8.6,0,Developing Customers,Recommended Learning Program: Full Stack Web Development Program
+164,49,AI and ML,86,7,5260,5,24,High,Medium,0.625,3,Highly Engaged Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+165,50,AI and ML,85,14,511,5,2,High,Low,0.3333333333333333,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+166,18,Web Development,27,10,5752,30,96,Low,Medium,2.727272727272727,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+167,36,Python Programming,57,13,4899,32,67,Medium,Low,2.2857142857142856,0,Developing Customers,Personalized Service Consultation + Advanced Python Programming Course
+168,19,Data Science,31,1,12056,8,24,Low,High,4.0,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+169,43,Data Science,6,3,11714,10,19,Low,High,2.5,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+170,49,Python Programming,91,6,12063,38,33,High,High,5.428571428571429,3,Highly Engaged Customers,Recommended Learning Program: Advanced Python Programming Course
+171,23,Web Development,40,2,14551,47,25,Medium,High,15.666666666666666,1,Active Customers,Recommended Learning Program: Full Stack Web Development Program
+172,49,AI and ML,98,12,11522,32,4,High,High,2.4615384615384617,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+173,21,Data Science,12,15,8734,48,98,Low,Medium,3.0,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+174,28,Cloud Computing,53,11,9635,28,60,Medium,Medium,2.3333333333333335,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+175,34,Cloud Computing,71,4,11082,17,91,High,High,3.4,2,Low Engagement Customers,Advanced Learning Program + Cloud Computing Fundamentals
+176,41,Python Programming,10,7,5945,31,92,Low,Medium,3.875,0,Developing Customers,Beginner Learning Program + Advanced Python Programming Course
+177,22,Web Development,45,11,11237,8,8,Medium,High,0.6666666666666666,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+178,51,Data Science,17,9,11103,40,49,Low,High,4.0,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+179,23,Web Development,26,2,13678,25,5,Low,High,8.333333333333334,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+180,39,Data Science,85,3,7070,9,82,High,Medium,2.25,2,Low Engagement Customers,Advanced Learning Program + Data Science Training Program
+181,28,Python Programming,92,13,9696,2,59,High,Medium,0.14285714285714285,3,Highly Engaged Customers,Personalized Service Consultation + Advanced Python Programming Course
+182,33,Python Programming,62,14,8712,15,43,Medium,Medium,1.0,3,Highly Engaged Customers,Personalized Service Consultation + Advanced Python Programming Course
+183,50,Cloud Computing,46,8,906,50,10,Medium,Low,5.555555555555555,0,Developing Customers,Recommended Learning Program: Cloud Computing Fundamentals
+184,26,Web Development,64,13,9706,3,65,Medium,Medium,0.21428571428571427,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+185,23,Cloud Computing,2,13,4931,49,46,Low,Low,3.5,0,Developing Customers,Beginner Learning Program + Cloud Computing Fundamentals
+186,33,Web Development,54,6,10530,36,72,Medium,High,5.142857142857143,0,Developing Customers,Recommended Learning Program: Full Stack Web Development Program
+187,46,Cloud Computing,65,0,11880,4,84,Medium,High,4.0,2,Low Engagement Customers,Advanced Learning Program + Cloud Computing Fundamentals
+188,20,AI and ML,51,13,5743,14,87,Medium,Medium,1.0,2,Low Engagement Customers,Advanced Learning Program + Artificial Intelligence and ML Program
+189,37,AI and ML,53,11,7042,41,97,Medium,Medium,3.4166666666666665,0,Developing Customers,Advanced Learning Program + Artificial Intelligence and ML Program
+190,53,AI and ML,36,3,7436,41,85,Medium,Medium,10.25,0,Developing Customers,Advanced Learning Program + Artificial Intelligence and ML Program
+191,36,AI and ML,26,3,14615,25,2,Low,High,6.25,3,Highly Engaged Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+192,43,Data Science,29,8,9406,50,75,Low,Medium,5.555555555555555,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+193,20,AI and ML,21,5,4646,10,91,Low,Low,1.6666666666666667,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+194,36,Python Programming,11,15,12546,21,29,Low,High,1.3125,3,Highly Engaged Customers,Beginner Learning Program + Advanced Python Programming Course
+195,37,Python Programming,40,8,13111,36,89,Medium,High,4.0,0,Developing Customers,Advanced Learning Program + Advanced Python Programming Course
+196,49,Data Science,11,11,13576,12,20,Low,High,1.0,3,Highly Engaged Customers,Beginner Learning Program + Data Science Training Program
+197,24,AI and ML,36,14,640,27,27,Medium,Low,1.8,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+198,50,AI and ML,59,5,13257,40,89,Medium,High,6.666666666666667,0,Developing Customers,Advanced Learning Program + Artificial Intelligence and ML Program
+199,35,AI and ML,39,5,5382,2,61,Medium,Medium,0.3333333333333333,2,Low Engagement Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+200,18,Cloud Computing,99,4,14613,13,32,High,High,2.6,3,Highly Engaged Customers,Recommended Learning Program: Cloud Computing Fundamentals
+201,28,Web Development,54,4,14145,32,84,Medium,High,6.4,2,Low Engagement Customers,Advanced Learning Program + Full Stack Web Development Program
+202,45,Cloud Computing,98,1,6512,31,34,High,Medium,15.5,1,Active Customers,Recommended Learning Program: Cloud Computing Fundamentals
+203,42,Web Development,55,7,1463,16,51,Medium,Low,2.0,2,Low Engagement Customers,Recommended Learning Program: Full Stack Web Development Program
+204,40,AI and ML,24,7,7651,32,33,Low,Medium,4.0,0,Developing Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+205,48,AI and ML,22,10,9064,32,40,Low,Medium,2.909090909090909,0,Developing Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+206,47,Cloud Computing,69,15,12327,34,50,Medium,High,2.125,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+207,52,Cloud Computing,56,12,11233,11,46,Medium,High,0.8461538461538461,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+208,24,Web Development,33,0,4110,10,81,Low,Low,10.0,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+209,33,Python Programming,36,7,10384,15,57,Medium,High,1.875,2,Low Engagement Customers,Recommended Learning Program: Advanced Python Programming Course
+210,43,Web Development,20,4,7394,17,74,Low,Medium,3.4,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+211,19,Cloud Computing,83,1,13967,40,56,High,High,20.0,1,Active Customers,Recommended Learning Program: Cloud Computing Fundamentals
+212,18,Cloud Computing,99,13,14459,18,22,High,High,1.2857142857142858,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+213,29,Data Science,81,15,7811,9,47,High,Medium,0.5625,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+214,22,Cloud Computing,62,1,605,25,21,Medium,Low,12.5,1,Active Customers,Recommended Learning Program: Cloud Computing Fundamentals
+215,54,Data Science,98,13,6039,40,16,High,Medium,2.857142857142857,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+216,49,Python Programming,73,14,10373,14,68,High,High,0.9333333333333333,3,Highly Engaged Customers,Personalized Service Consultation + Advanced Python Programming Course
+217,26,Web Development,26,14,12789,25,10,Low,High,1.6666666666666667,3,Highly Engaged Customers,Beginner Learning Program + Full Stack Web Development Program
+218,52,Web Development,66,5,12708,50,93,Medium,High,8.333333333333334,0,Developing Customers,Advanced Learning Program + Full Stack Web Development Program
+219,36,Data Science,73,15,11328,22,14,High,High,1.375,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+220,33,Web Development,73,10,7287,30,90,High,Medium,2.727272727272727,0,Developing Customers,Advanced Learning Program + Full Stack Web Development Program
+221,20,Cloud Computing,40,12,2637,20,34,Medium,Low,1.5384615384615385,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+222,37,AI and ML,17,8,12108,21,32,Low,High,2.3333333333333335,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+223,41,Data Science,1,0,4945,44,83,Low,Low,44.0,1,Active Customers,Beginner Learning Program + Data Science Training Program
+224,50,Web Development,89,11,4030,32,15,High,Low,2.6666666666666665,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+225,41,Data Science,61,5,1786,46,33,Medium,Low,7.666666666666667,0,Developing Customers,Recommended Learning Program: Data Science Training Program
+226,28,Data Science,43,8,11871,49,65,Medium,High,5.444444444444445,0,Developing Customers,Recommended Learning Program: Data Science Training Program
+227,25,AI and ML,42,7,13850,21,98,Medium,High,2.625,2,Low Engagement Customers,Advanced Learning Program + Artificial Intelligence and ML Program
+228,53,Cloud Computing,25,10,7552,35,39,Low,Medium,3.1818181818181817,0,Developing Customers,Beginner Learning Program + Cloud Computing Fundamentals
+229,37,Data Science,39,5,14994,32,27,Medium,High,5.333333333333333,3,Highly Engaged Customers,Recommended Learning Program: Data Science Training Program
+230,52,Web Development,35,2,4154,30,46,Low,Low,10.0,1,Active Customers,Recommended Learning Program: Full Stack Web Development Program
+231,42,Python Programming,3,7,7602,39,38,Low,Medium,4.875,0,Developing Customers,Beginner Learning Program + Advanced Python Programming Course
+232,52,Data Science,44,8,2859,49,69,Medium,Low,5.444444444444445,0,Developing Customers,Recommended Learning Program: Data Science Training Program
+233,42,Data Science,51,0,8605,12,72,Medium,Medium,12.0,2,Low Engagement Customers,Recommended Learning Program: Data Science Training Program
+234,46,AI and ML,94,11,9136,41,19,High,Medium,3.4166666666666665,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+235,35,Cloud Computing,98,8,6941,47,0,High,Medium,5.222222222222222,3,Highly Engaged Customers,Recommended Learning Program: Cloud Computing Fundamentals
+236,35,Python Programming,12,13,5547,18,71,Low,Medium,1.2857142857142858,0,Developing Customers,Beginner Learning Program + Advanced Python Programming Course
+237,19,Web Development,19,15,8727,21,86,Low,Medium,1.3125,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+238,52,Python Programming,44,14,5703,13,62,Medium,Medium,0.8666666666666667,0,Developing Customers,Personalized Service Consultation + Advanced Python Programming Course
+239,33,Web Development,59,15,10167,21,66,Medium,High,1.3125,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+240,53,Cloud Computing,49,5,12649,8,3,Medium,High,1.3333333333333333,3,Highly Engaged Customers,Recommended Learning Program: Cloud Computing Fundamentals
+241,50,Web Development,61,5,2298,46,57,Medium,Low,7.666666666666667,0,Developing Customers,Recommended Learning Program: Full Stack Web Development Program
+242,21,AI and ML,17,11,10537,40,24,Low,High,3.3333333333333335,3,Highly Engaged Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+243,50,AI and ML,74,3,10100,46,46,High,High,11.5,1,Active Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+244,31,AI and ML,57,0,5791,7,37,Medium,Medium,7.0,2,Low Engagement Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+245,38,AI and ML,55,9,5995,23,14,Medium,Medium,2.3,3,Highly Engaged Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+246,37,Python Programming,47,7,10400,44,62,Medium,High,5.5,0,Developing Customers,Recommended Learning Program: Advanced Python Programming Course
+247,25,Cloud Computing,12,15,14173,32,20,Low,High,2.0,3,Highly Engaged Customers,Beginner Learning Program + Cloud Computing Fundamentals
+248,24,Web Development,62,1,11630,11,98,Medium,High,5.5,2,Low Engagement Customers,Advanced Learning Program + Full Stack Web Development Program
+249,20,Web Development,80,11,6784,22,56,High,Medium,1.8333333333333333,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+250,34,AI and ML,88,0,7785,22,52,High,Medium,22.0,1,Active Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+251,50,AI and ML,83,1,1800,43,45,High,Low,21.5,1,Active Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+252,29,Data Science,8,0,7369,25,13,Low,Medium,25.0,1,Active Customers,Beginner Learning Program + Data Science Training Program
+253,39,Cloud Computing,95,0,9935,22,99,High,Medium,22.0,1,Active Customers,Advanced Learning Program + Cloud Computing Fundamentals
+254,39,Python Programming,21,8,12668,28,75,Low,High,3.111111111111111,0,Developing Customers,Beginner Learning Program + Advanced Python Programming Course
+255,47,Web Development,81,12,3597,29,16,High,Low,2.230769230769231,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+256,25,Data Science,87,13,5116,13,38,High,Medium,0.9285714285714286,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+257,44,Data Science,80,0,14594,18,8,High,High,18.0,1,Active Customers,Recommended Learning Program: Data Science Training Program
+258,44,Web Development,70,12,509,2,98,Medium,Low,0.15384615384615385,2,Low Engagement Customers,Advanced Learning Program + Full Stack Web Development Program
+259,51,Python Programming,72,3,13771,29,76,High,High,7.25,0,Developing Customers,Advanced Learning Program + Advanced Python Programming Course
+260,38,Data Science,25,9,11117,21,78,Low,High,2.1,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+261,47,Data Science,82,5,6252,15,81,High,Medium,2.5,2,Low Engagement Customers,Advanced Learning Program + Data Science Training Program
+262,50,Cloud Computing,89,6,10352,27,96,High,High,3.857142857142857,0,Developing Customers,Advanced Learning Program + Cloud Computing Fundamentals
+263,45,Python Programming,12,1,11323,50,5,Low,High,25.0,1,Active Customers,Beginner Learning Program + Advanced Python Programming Course
+264,50,Data Science,15,5,6795,31,90,Low,Medium,5.166666666666667,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+265,22,Python Programming,59,6,5315,15,22,Medium,Medium,2.142857142857143,2,Low Engagement Customers,Recommended Learning Program: Advanced Python Programming Course
+266,36,Web Development,26,9,1572,23,58,Low,Low,2.3,0,Developing Customers,Beginner Learning Program + Full Stack Web Development Program
+267,21,AI and ML,26,13,3725,24,90,Low,Low,1.7142857142857142,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+268,52,Data Science,47,9,13646,44,97,Medium,High,4.4,0,Developing Customers,Advanced Learning Program + Data Science Training Program
+269,34,Cloud Computing,32,1,1816,13,45,Low,Low,6.5,2,Low Engagement Customers,Beginner Learning Program + Cloud Computing Fundamentals
+270,45,Web Development,10,14,6199,22,37,Low,Medium,1.4666666666666666,0,Developing Customers,Beginner Learning Program + Full Stack Web Development Program
+271,47,Python Programming,16,1,12837,43,13,Low,High,21.5,1,Active Customers,Beginner Learning Program + Advanced Python Programming Course
+272,46,Web Development,71,9,7307,37,99,High,Medium,3.7,0,Developing Customers,Advanced Learning Program + Full Stack Web Development Program
+273,23,Data Science,17,6,7174,33,71,Low,Medium,4.714285714285714,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+274,52,Python Programming,23,11,4183,3,61,Low,Low,0.25,2,Low Engagement Customers,Beginner Learning Program + Advanced Python Programming Course
+275,54,AI and ML,26,0,7727,19,34,Low,Medium,19.0,1,Active Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+276,41,Web Development,85,7,3773,23,18,High,Low,2.875,3,Highly Engaged Customers,Recommended Learning Program: Full Stack Web Development Program
+277,46,Data Science,86,10,7500,29,29,High,Medium,2.6363636363636362,3,Highly Engaged Customers,Recommended Learning Program: Data Science Training Program
+278,48,Cloud Computing,7,12,645,30,77,Low,Low,2.3076923076923075,0,Developing Customers,Beginner Learning Program + Cloud Computing Fundamentals
+279,52,Python Programming,14,2,5510,39,83,Low,Medium,13.0,0,Developing Customers,Beginner Learning Program + Advanced Python Programming Course
+280,50,Web Development,79,10,3540,44,24,High,Low,4.0,0,Developing Customers,Recommended Learning Program: Full Stack Web Development Program
+281,38,Web Development,7,5,10154,47,39,Low,High,7.833333333333333,0,Developing Customers,Beginner Learning Program + Full Stack Web Development Program
+282,49,AI and ML,9,8,13368,25,87,Low,High,2.7777777777777777,0,Developing Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+283,40,AI and ML,48,5,10276,37,13,Medium,High,6.166666666666667,3,Highly Engaged Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+284,50,Cloud Computing,72,8,982,47,25,High,Low,5.222222222222222,0,Developing Customers,Recommended Learning Program: Cloud Computing Fundamentals
+285,20,Cloud Computing,59,6,3679,8,86,Medium,Low,1.1428571428571428,2,Low Engagement Customers,Advanced Learning Program + Cloud Computing Fundamentals
+286,35,Data Science,87,14,1749,42,21,High,Low,2.8,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+287,42,Data Science,93,15,13460,16,47,High,High,1.0,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+288,48,Cloud Computing,82,8,1130,8,82,High,Low,0.8888888888888888,2,Low Engagement Customers,Advanced Learning Program + Cloud Computing Fundamentals
+289,20,Cloud Computing,95,1,9353,1,50,High,Medium,0.5,2,Low Engagement Customers,Recommended Learning Program: Cloud Computing Fundamentals
+290,41,Python Programming,94,11,12195,44,2,High,High,3.6666666666666665,3,Highly Engaged Customers,Personalized Service Consultation + Advanced Python Programming Course
+291,49,AI and ML,39,7,3352,5,41,Medium,Low,0.625,2,Low Engagement Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+292,39,Data Science,99,7,11158,3,18,High,High,0.375,3,Highly Engaged Customers,Recommended Learning Program: Data Science Training Program
+293,40,AI and ML,18,1,1487,1,72,Low,Low,0.5,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+294,19,AI and ML,59,11,8122,4,27,Medium,Medium,0.3333333333333333,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+295,44,Cloud Computing,17,13,7827,40,83,Low,Medium,2.857142857142857,0,Developing Customers,Beginner Learning Program + Cloud Computing Fundamentals
+296,19,Python Programming,14,3,10238,35,44,Low,High,8.75,2,Low Engagement Customers,Beginner Learning Program + Advanced Python Programming Course
+297,43,Web Development,31,13,9341,32,70,Low,Medium,2.2857142857142856,0,Developing Customers,Beginner Learning Program + Full Stack Web Development Program
+298,34,Python Programming,24,14,9660,42,77,Low,Medium,2.8,0,Developing Customers,Beginner Learning Program + Advanced Python Programming Course
+299,50,Python Programming,99,10,11329,34,62,High,High,3.090909090909091,3,Highly Engaged Customers,Recommended Learning Program: Advanced Python Programming Course
+300,26,AI and ML,60,14,1600,43,72,Medium,Low,2.8666666666666667,0,Developing Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+301,46,Python Programming,45,6,7152,25,18,Medium,Medium,3.5714285714285716,3,Highly Engaged Customers,Recommended Learning Program: Advanced Python Programming Course
+302,43,Data Science,98,10,9132,10,46,High,Medium,0.9090909090909091,3,Highly Engaged Customers,Recommended Learning Program: Data Science Training Program
+303,52,AI and ML,3,3,7921,21,13,Low,Medium,5.25,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+304,42,Data Science,37,15,5516,46,37,Medium,Medium,2.875,0,Developing Customers,Personalized Service Consultation + Data Science Training Program
+305,41,Web Development,43,3,1269,39,52,Medium,Low,9.75,0,Developing Customers,Recommended Learning Program: Full Stack Web Development Program
+306,30,AI and ML,40,5,1843,27,60,Medium,Low,4.5,2,Low Engagement Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+307,24,Web Development,90,9,14614,27,35,High,High,2.7,3,Highly Engaged Customers,Recommended Learning Program: Full Stack Web Development Program
+308,53,AI and ML,55,5,4858,2,39,Medium,Low,0.3333333333333333,2,Low Engagement Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+309,37,Cloud Computing,87,9,12421,41,80,High,High,4.1,0,Developing Customers,Advanced Learning Program + Cloud Computing Fundamentals
+310,18,Python Programming,39,14,12598,48,29,Medium,High,3.2,3,Highly Engaged Customers,Personalized Service Consultation + Advanced Python Programming Course
+311,25,Cloud Computing,15,2,10269,13,8,Low,High,4.333333333333333,2,Low Engagement Customers,Beginner Learning Program + Cloud Computing Fundamentals
+312,33,Web Development,4,14,7280,9,63,Low,Medium,0.6,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+313,31,Python Programming,93,8,12700,36,32,High,High,4.0,3,Highly Engaged Customers,Recommended Learning Program: Advanced Python Programming Course
+314,29,AI and ML,86,11,7102,22,51,High,Medium,1.8333333333333333,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+315,40,Python Programming,25,9,13786,42,88,Low,High,4.2,0,Developing Customers,Beginner Learning Program + Advanced Python Programming Course
+316,32,Data Science,13,13,12043,26,13,Low,High,1.8571428571428572,3,Highly Engaged Customers,Beginner Learning Program + Data Science Training Program
+317,45,Python Programming,82,10,13487,12,74,High,High,1.0909090909090908,3,Highly Engaged Customers,Recommended Learning Program: Advanced Python Programming Course
+318,51,Data Science,33,1,2849,17,52,Low,Low,8.5,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+319,19,Python Programming,16,5,12294,14,98,Low,High,2.3333333333333335,2,Low Engagement Customers,Beginner Learning Program + Advanced Python Programming Course
+320,49,Data Science,42,11,6199,14,58,Medium,Medium,1.1666666666666667,0,Developing Customers,Personalized Service Consultation + Data Science Training Program
+321,40,Web Development,66,6,1741,34,77,Medium,Low,4.857142857142857,0,Developing Customers,Advanced Learning Program + Full Stack Web Development Program
+322,39,Cloud Computing,55,11,1625,20,93,Medium,Low,1.6666666666666667,0,Developing Customers,Advanced Learning Program + Cloud Computing Fundamentals
+323,42,AI and ML,99,12,11293,11,40,High,High,0.8461538461538461,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+324,39,Python Programming,42,8,9882,16,67,Medium,Medium,1.7777777777777777,2,Low Engagement Customers,Recommended Learning Program: Advanced Python Programming Course
+325,39,Cloud Computing,34,12,7264,31,67,Low,Medium,2.3846153846153846,0,Developing Customers,Beginner Learning Program + Cloud Computing Fundamentals
+326,23,AI and ML,30,2,5601,6,91,Low,Medium,2.0,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+327,32,AI and ML,13,9,12823,19,7,Low,High,1.9,3,Highly Engaged Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+328,54,Data Science,13,2,13531,37,1,Low,High,12.333333333333334,1,Active Customers,Beginner Learning Program + Data Science Training Program
+329,50,Web Development,18,6,14552,4,85,Low,High,0.5714285714285714,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+330,25,Web Development,32,13,13140,47,40,Low,High,3.357142857142857,3,Highly Engaged Customers,Beginner Learning Program + Full Stack Web Development Program
+331,22,Cloud Computing,96,3,8343,4,54,High,Medium,1.0,2,Low Engagement Customers,Recommended Learning Program: Cloud Computing Fundamentals
+332,21,Web Development,99,12,14710,20,15,High,High,1.5384615384615385,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+333,23,Python Programming,39,7,572,10,92,Medium,Low,1.25,2,Low Engagement Customers,Advanced Learning Program + Advanced Python Programming Course
+334,49,Web Development,46,12,5972,24,61,Medium,Medium,1.8461538461538463,0,Developing Customers,Personalized Service Consultation + Full Stack Web Development Program
+335,47,Cloud Computing,29,6,10606,35,47,Low,High,5.0,0,Developing Customers,Beginner Learning Program + Cloud Computing Fundamentals
+336,52,Web Development,62,4,5689,26,29,Medium,Medium,5.2,0,Developing Customers,Recommended Learning Program: Full Stack Web Development Program
+337,33,Python Programming,93,6,2972,37,11,High,Low,5.285714285714286,3,Highly Engaged Customers,Recommended Learning Program: Advanced Python Programming Course
+338,30,Data Science,62,15,11738,38,34,Medium,High,2.375,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+339,47,Cloud Computing,57,2,1207,21,10,Medium,Low,7.0,1,Active Customers,Recommended Learning Program: Cloud Computing Fundamentals
+340,36,Data Science,16,11,2304,40,63,Low,Low,3.3333333333333335,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+341,34,Data Science,56,1,7204,39,49,Medium,Medium,19.5,1,Active Customers,Recommended Learning Program: Data Science Training Program
+342,36,Data Science,10,5,4213,21,84,Low,Low,3.5,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+343,45,AI and ML,30,1,5551,10,20,Low,Medium,5.0,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+344,43,AI and ML,25,2,11256,38,68,Low,High,12.666666666666666,1,Active Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+345,54,Data Science,84,5,2975,46,47,High,Low,7.666666666666667,0,Developing Customers,Recommended Learning Program: Data Science Training Program
+346,43,Cloud Computing,5,4,4110,4,19,Low,Low,0.8,2,Low Engagement Customers,Beginner Learning Program + Cloud Computing Fundamentals
+347,40,Python Programming,65,15,4755,45,100,Medium,Low,2.8125,0,Developing Customers,Advanced Learning Program + Advanced Python Programming Course
+348,26,Python Programming,94,7,14984,20,66,High,High,2.5,3,Highly Engaged Customers,Recommended Learning Program: Advanced Python Programming Course
+349,29,Web Development,49,8,11515,17,43,Medium,High,1.8888888888888888,3,Highly Engaged Customers,Recommended Learning Program: Full Stack Web Development Program
+350,18,Cloud Computing,3,10,7897,7,32,Low,Medium,0.6363636363636364,2,Low Engagement Customers,Beginner Learning Program + Cloud Computing Fundamentals
+351,18,AI and ML,45,2,2235,4,72,Medium,Low,1.3333333333333333,2,Low Engagement Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+352,51,Data Science,14,11,10277,29,60,Low,High,2.4166666666666665,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+353,49,Web Development,30,9,8758,14,8,Low,Medium,1.4,3,Highly Engaged Customers,Beginner Learning Program + Full Stack Web Development Program
+354,42,Python Programming,68,2,11753,3,67,Medium,High,1.0,2,Low Engagement Customers,Recommended Learning Program: Advanced Python Programming Course
+355,18,AI and ML,18,2,8479,24,34,Low,Medium,8.0,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+356,33,AI and ML,62,12,2928,37,80,Medium,Low,2.8461538461538463,0,Developing Customers,Advanced Learning Program + Artificial Intelligence and ML Program
+357,22,Data Science,37,12,12845,16,97,Medium,High,1.2307692307692308,2,Low Engagement Customers,Advanced Learning Program + Data Science Training Program
+358,39,Python Programming,25,5,7926,4,87,Low,Medium,0.6666666666666666,2,Low Engagement Customers,Beginner Learning Program + Advanced Python Programming Course
+359,46,Cloud Computing,48,14,9033,24,95,Medium,Medium,1.6,0,Developing Customers,Advanced Learning Program + Cloud Computing Fundamentals
+360,20,AI and ML,65,14,5749,34,64,Medium,Medium,2.2666666666666666,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+361,29,Data Science,53,0,11466,30,7,Medium,High,30.0,1,Active Customers,Recommended Learning Program: Data Science Training Program
+362,43,Cloud Computing,79,6,5791,18,44,High,Medium,2.5714285714285716,3,Highly Engaged Customers,Recommended Learning Program: Cloud Computing Fundamentals
+363,33,Python Programming,73,11,3317,19,86,High,Low,1.5833333333333333,0,Developing Customers,Advanced Learning Program + Advanced Python Programming Course
+364,54,AI and ML,15,0,11353,31,46,Low,High,31.0,1,Active Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+365,39,Cloud Computing,49,13,9924,19,39,Medium,Medium,1.3571428571428572,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+366,46,Cloud Computing,88,4,4374,49,75,High,Low,9.8,0,Developing Customers,Recommended Learning Program: Cloud Computing Fundamentals
+367,31,Cloud Computing,68,14,11093,46,53,Medium,High,3.066666666666667,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+368,45,AI and ML,12,9,10186,19,75,Low,High,1.9,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+369,22,AI and ML,59,12,14609,22,45,Medium,High,1.6923076923076923,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+370,47,Web Development,37,7,4711,24,46,Medium,Low,3.0,0,Developing Customers,Recommended Learning Program: Full Stack Web Development Program
+371,22,Python Programming,61,3,1161,45,14,Medium,Low,11.25,1,Active Customers,Recommended Learning Program: Advanced Python Programming Course
+372,29,Data Science,43,4,12575,12,18,Medium,High,2.4,2,Low Engagement Customers,Recommended Learning Program: Data Science Training Program
+373,33,Cloud Computing,70,3,14253,30,25,Medium,High,7.5,3,Highly Engaged Customers,Recommended Learning Program: Cloud Computing Fundamentals
+374,43,Web Development,39,11,12311,38,51,Medium,High,3.1666666666666665,0,Developing Customers,Personalized Service Consultation + Full Stack Web Development Program
+375,43,Data Science,56,11,10560,31,92,Medium,High,2.5833333333333335,0,Developing Customers,Advanced Learning Program + Data Science Training Program
+376,38,Web Development,63,13,11026,36,21,Medium,High,2.5714285714285716,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+377,53,AI and ML,46,3,3874,19,20,Medium,Low,4.75,2,Low Engagement Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+378,50,Cloud Computing,88,11,9708,48,50,High,Medium,4.0,0,Developing Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+379,47,Data Science,11,7,13098,45,37,Low,High,5.625,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+380,54,Data Science,62,1,707,36,19,Medium,Low,18.0,1,Active Customers,Recommended Learning Program: Data Science Training Program
+381,40,Data Science,77,0,3165,30,28,High,Low,30.0,1,Active Customers,Recommended Learning Program: Data Science Training Program
+382,27,Data Science,98,2,2993,49,50,High,Low,16.333333333333332,1,Active Customers,Recommended Learning Program: Data Science Training Program
+383,22,Data Science,25,15,7313,33,3,Low,Medium,2.0625,3,Highly Engaged Customers,Beginner Learning Program + Data Science Training Program
+384,53,Web Development,71,8,1132,18,54,High,Low,2.0,0,Developing Customers,Recommended Learning Program: Full Stack Web Development Program
+385,51,Cloud Computing,52,3,10794,49,70,Medium,High,12.25,1,Active Customers,Recommended Learning Program: Cloud Computing Fundamentals
+386,48,AI and ML,4,9,11651,28,91,Low,High,2.8,0,Developing Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+387,27,AI and ML,59,4,3583,47,27,Medium,Low,9.4,1,Active Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+388,36,AI and ML,72,1,13444,11,3,High,High,5.5,3,Highly Engaged Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+389,49,AI and ML,20,15,14211,45,21,Low,High,2.8125,0,Developing Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+390,18,Web Development,93,3,10623,33,75,High,High,8.25,2,Low Engagement Customers,Recommended Learning Program: Full Stack Web Development Program
+391,22,Python Programming,63,1,4219,17,44,Medium,Low,8.5,2,Low Engagement Customers,Recommended Learning Program: Advanced Python Programming Course
+392,21,Cloud Computing,54,14,7623,6,66,Medium,Medium,0.4,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+393,33,Data Science,74,1,11254,4,85,High,High,2.0,2,Low Engagement Customers,Advanced Learning Program + Data Science Training Program
+394,41,Python Programming,98,3,2179,20,65,High,Low,5.0,2,Low Engagement Customers,Recommended Learning Program: Advanced Python Programming Course
+395,33,AI and ML,57,5,736,48,87,Medium,Low,8.0,0,Developing Customers,Advanced Learning Program + Artificial Intelligence and ML Program
+396,19,Python Programming,90,6,7946,47,33,High,Medium,6.714285714285714,3,Highly Engaged Customers,Recommended Learning Program: Advanced Python Programming Course
+397,45,Cloud Computing,41,9,4943,27,90,Medium,Low,2.7,0,Developing Customers,Advanced Learning Program + Cloud Computing Fundamentals
+398,49,Data Science,3,2,7270,15,54,Low,Medium,5.0,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+399,44,Data Science,6,2,13417,6,0,Low,High,2.0,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+400,37,Cloud Computing,5,9,10232,47,71,Low,High,4.7,0,Developing Customers,Beginner Learning Program + Cloud Computing Fundamentals
+401,41,Cloud Computing,5,5,6599,14,86,Low,Medium,2.3333333333333335,2,Low Engagement Customers,Beginner Learning Program + Cloud Computing Fundamentals
+402,29,AI and ML,54,12,12635,11,37,Medium,High,0.8461538461538461,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+403,52,Data Science,47,11,14059,39,5,Medium,High,3.25,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+404,50,Python Programming,87,2,9055,9,85,High,Medium,3.0,2,Low Engagement Customers,Advanced Learning Program + Advanced Python Programming Course
+405,50,Web Development,49,12,2868,26,24,Medium,Low,2.0,0,Developing Customers,Personalized Service Consultation + Full Stack Web Development Program
+406,54,Web Development,9,1,785,16,81,Low,Low,8.0,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
+407,29,Cloud Computing,99,7,648,5,16,High,Low,0.625,3,Highly Engaged Customers,Recommended Learning Program: Cloud Computing Fundamentals
+408,20,AI and ML,20,4,13895,10,60,Low,High,2.0,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+409,18,Web Development,61,14,4537,50,11,Medium,Low,3.3333333333333335,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+410,50,Data Science,35,0,7049,3,5,Low,Medium,3.0,2,Low Engagement Customers,Recommended Learning Program: Data Science Training Program
+411,27,Cloud Computing,50,2,7621,13,89,Medium,Medium,4.333333333333333,2,Low Engagement Customers,Advanced Learning Program + Cloud Computing Fundamentals
+412,46,Python Programming,82,9,13243,43,26,High,High,4.3,3,Highly Engaged Customers,Recommended Learning Program: Advanced Python Programming Course
+413,30,Cloud Computing,62,7,10458,49,7,Medium,High,6.125,3,Highly Engaged Customers,Recommended Learning Program: Cloud Computing Fundamentals
+414,29,Python Programming,17,3,5395,30,82,Low,Medium,7.5,2,Low Engagement Customers,Beginner Learning Program + Advanced Python Programming Course
+415,48,Cloud Computing,88,15,5780,45,64,High,Medium,2.8125,0,Developing Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+416,19,Cloud Computing,3,13,1512,6,56,Low,Low,0.42857142857142855,2,Low Engagement Customers,Beginner Learning Program + Cloud Computing Fundamentals
+417,52,Cloud Computing,32,6,11523,17,92,Low,High,2.4285714285714284,2,Low Engagement Customers,Beginner Learning Program + Cloud Computing Fundamentals
+418,40,Python Programming,99,9,11199,45,98,High,High,4.5,0,Developing Customers,Advanced Learning Program + Advanced Python Programming Course
+419,34,Python Programming,13,11,10215,19,39,Low,High,1.5833333333333333,3,Highly Engaged Customers,Beginner Learning Program + Advanced Python Programming Course
+420,43,Cloud Computing,89,13,3285,42,13,High,Low,3.0,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+421,25,Web Development,73,13,11248,35,34,High,High,2.5,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+422,46,AI and ML,68,1,4225,46,47,Medium,Low,23.0,1,Active Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+423,43,AI and ML,14,6,5076,26,83,Low,Medium,3.7142857142857144,0,Developing Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+424,27,AI and ML,98,4,6282,5,55,High,Medium,1.0,2,Low Engagement Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+425,43,Python Programming,11,4,6757,29,48,Low,Medium,5.8,0,Developing Customers,Beginner Learning Program + Advanced Python Programming Course
+426,51,Python Programming,56,5,10293,37,12,Medium,High,6.166666666666667,3,Highly Engaged Customers,Recommended Learning Program: Advanced Python Programming Course
+427,24,Web Development,67,12,2908,20,60,Medium,Low,1.5384615384615385,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+428,21,AI and ML,92,8,840,49,48,High,Low,5.444444444444445,0,Developing Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+429,28,AI and ML,29,13,3317,21,45,Low,Low,1.5,3,Highly Engaged Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+430,46,Cloud Computing,9,5,14798,10,61,Low,High,1.6666666666666667,2,Low Engagement Customers,Beginner Learning Program + Cloud Computing Fundamentals
+431,53,Python Programming,67,11,2996,5,7,Medium,Low,0.4166666666666667,3,Highly Engaged Customers,Personalized Service Consultation + Advanced Python Programming Course
+432,42,AI and ML,25,12,6462,36,42,Low,Medium,2.769230769230769,0,Developing Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+433,38,Web Development,98,14,13622,6,19,High,High,0.4,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+434,53,Web Development,76,13,5799,26,96,High,Medium,1.8571428571428572,0,Developing Customers,Advanced Learning Program + Full Stack Web Development Program
+435,27,AI and ML,42,7,10417,4,89,Medium,High,0.5,2,Low Engagement Customers,Advanced Learning Program + Artificial Intelligence and ML Program
+436,54,Python Programming,9,6,8074,39,38,Low,Medium,5.571428571428571,0,Developing Customers,Beginner Learning Program + Advanced Python Programming Course
+437,26,Web Development,79,8,2189,39,84,High,Low,4.333333333333333,0,Developing Customers,Advanced Learning Program + Full Stack Web Development Program
+438,41,Cloud Computing,40,3,3767,50,48,Medium,Low,12.5,1,Active Customers,Recommended Learning Program: Cloud Computing Fundamentals
+439,52,Web Development,25,1,4906,35,63,Low,Low,17.5,1,Active Customers,Beginner Learning Program + Full Stack Web Development Program
+440,52,Data Science,5,6,8953,1,61,Low,Medium,0.14285714285714285,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+441,53,Data Science,11,5,1942,24,53,Low,Low,4.0,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+442,35,Python Programming,59,0,9097,36,8,Medium,Medium,36.0,1,Active Customers,Recommended Learning Program: Advanced Python Programming Course
+443,49,AI and ML,98,10,10882,6,87,High,High,0.5454545454545454,3,Highly Engaged Customers,Advanced Learning Program + Artificial Intelligence and ML Program
+444,41,Python Programming,88,8,4937,41,36,High,Low,4.555555555555555,0,Developing Customers,Recommended Learning Program: Advanced Python Programming Course
+445,40,Python Programming,79,8,5935,46,48,High,Medium,5.111111111111111,0,Developing Customers,Recommended Learning Program: Advanced Python Programming Course
+446,49,Python Programming,38,11,8935,44,40,Medium,Medium,3.6666666666666665,0,Developing Customers,Personalized Service Consultation + Advanced Python Programming Course
+447,54,Python Programming,72,1,13277,31,16,High,High,15.5,1,Active Customers,Recommended Learning Program: Advanced Python Programming Course
+448,29,Cloud Computing,5,2,4607,20,87,Low,Low,6.666666666666667,2,Low Engagement Customers,Beginner Learning Program + Cloud Computing Fundamentals
+449,30,Cloud Computing,48,4,1060,24,20,Medium,Low,4.8,2,Low Engagement Customers,Recommended Learning Program: Cloud Computing Fundamentals
+450,40,Web Development,90,4,12829,25,50,High,High,5.0,3,Highly Engaged Customers,Recommended Learning Program: Full Stack Web Development Program
+451,42,Data Science,18,14,11417,36,58,Low,High,2.4,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+452,52,Python Programming,70,0,9285,21,38,Medium,Medium,21.0,1,Active Customers,Recommended Learning Program: Advanced Python Programming Course
+453,47,Web Development,37,7,6048,30,54,Medium,Medium,3.75,0,Developing Customers,Recommended Learning Program: Full Stack Web Development Program
+454,34,Data Science,60,11,2326,24,40,Medium,Low,2.0,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+455,37,AI and ML,48,7,11921,44,38,Medium,High,5.5,0,Developing Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+456,42,Cloud Computing,77,3,11979,42,12,High,High,10.5,1,Active Customers,Recommended Learning Program: Cloud Computing Fundamentals
+457,39,Data Science,28,12,12765,30,63,Low,High,2.3076923076923075,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+458,30,AI and ML,69,6,14481,22,10,Medium,High,3.142857142857143,3,Highly Engaged Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+459,36,Data Science,77,14,8129,28,18,High,Medium,1.8666666666666667,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+460,53,Cloud Computing,81,14,8825,7,10,High,Medium,0.4666666666666667,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+461,29,Cloud Computing,40,10,3638,35,76,Medium,Low,3.1818181818181817,0,Developing Customers,Advanced Learning Program + Cloud Computing Fundamentals
+462,36,Web Development,45,9,12611,28,45,Medium,High,2.8,3,Highly Engaged Customers,Recommended Learning Program: Full Stack Web Development Program
+463,29,Python Programming,96,2,13735,14,44,High,High,4.666666666666667,2,Low Engagement Customers,Recommended Learning Program: Advanced Python Programming Course
+464,26,Data Science,62,5,8193,10,0,Medium,Medium,1.6666666666666667,3,Highly Engaged Customers,Recommended Learning Program: Data Science Training Program
+465,24,Data Science,93,13,8764,16,39,High,Medium,1.1428571428571428,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+466,45,AI and ML,58,15,13186,16,18,Medium,High,1.0,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+467,31,Cloud Computing,67,9,14216,31,75,Medium,High,3.1,3,Highly Engaged Customers,Recommended Learning Program: Cloud Computing Fundamentals
+468,48,Data Science,56,12,8342,42,71,Medium,Medium,3.230769230769231,0,Developing Customers,Personalized Service Consultation + Data Science Training Program
+469,36,Cloud Computing,40,9,7221,25,71,Medium,Medium,2.5,0,Developing Customers,Recommended Learning Program: Cloud Computing Fundamentals
+470,33,Data Science,98,11,7502,13,60,High,Medium,1.0833333333333333,3,Highly Engaged Customers,Personalized Service Consultation + Data Science Training Program
+471,22,Web Development,40,13,4725,6,11,Medium,Low,0.42857142857142855,3,Highly Engaged Customers,Personalized Service Consultation + Full Stack Web Development Program
+472,52,Python Programming,91,8,3478,44,60,High,Low,4.888888888888889,0,Developing Customers,Recommended Learning Program: Advanced Python Programming Course
+473,29,Data Science,77,0,7873,9,32,High,Medium,9.0,2,Low Engagement Customers,Recommended Learning Program: Data Science Training Program
+474,42,Cloud Computing,33,4,6407,45,44,Low,Medium,9.0,0,Developing Customers,Beginner Learning Program + Cloud Computing Fundamentals
+475,38,Web Development,6,3,6597,36,89,Low,Medium,9.0,0,Developing Customers,Beginner Learning Program + Full Stack Web Development Program
+476,53,Data Science,88,7,13053,43,91,High,High,5.375,0,Developing Customers,Advanced Learning Program + Data Science Training Program
+477,40,AI and ML,19,10,6156,20,68,Low,Medium,1.8181818181818181,0,Developing Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+478,33,Python Programming,80,11,10677,18,7,High,High,1.5,3,Highly Engaged Customers,Personalized Service Consultation + Advanced Python Programming Course
+479,31,Data Science,40,0,9484,43,24,Medium,Medium,43.0,1,Active Customers,Recommended Learning Program: Data Science Training Program
+480,48,Web Development,92,8,14100,21,90,High,High,2.3333333333333335,3,Highly Engaged Customers,Advanced Learning Program + Full Stack Web Development Program
+481,22,AI and ML,97,15,4759,4,45,High,Low,0.25,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+482,52,Web Development,59,5,8786,50,86,Medium,Medium,8.333333333333334,0,Developing Customers,Advanced Learning Program + Full Stack Web Development Program
+483,40,Web Development,59,3,6401,33,29,Medium,Medium,8.25,1,Active Customers,Recommended Learning Program: Full Stack Web Development Program
+484,46,AI and ML,48,11,9825,27,46,Medium,Medium,2.25,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+485,28,Web Development,41,8,5417,7,86,Medium,Medium,0.7777777777777778,2,Low Engagement Customers,Advanced Learning Program + Full Stack Web Development Program
+486,35,AI and ML,13,10,8929,6,48,Low,Medium,0.5454545454545454,2,Low Engagement Customers,Beginner Learning Program + Artificial Intelligence and ML Program
+487,29,Data Science,45,4,11638,15,46,Medium,High,3.0,2,Low Engagement Customers,Recommended Learning Program: Data Science Training Program
+488,26,AI and ML,89,14,3030,18,83,High,Low,1.2,3,Highly Engaged Customers,Advanced Learning Program + Artificial Intelligence and ML Program
+489,27,AI and ML,53,4,2460,32,81,Medium,Low,6.4,2,Low Engagement Customers,Advanced Learning Program + Artificial Intelligence and ML Program
+490,34,Python Programming,42,11,7545,11,17,Medium,Medium,0.9166666666666666,3,Highly Engaged Customers,Personalized Service Consultation + Advanced Python Programming Course
+491,24,AI and ML,100,4,1548,20,65,High,Low,4.0,2,Low Engagement Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+492,30,AI and ML,63,0,6272,24,67,Medium,Medium,24.0,1,Active Customers,Recommended Learning Program: Artificial Intelligence and ML Program
+493,26,Data Science,27,0,3029,15,93,Low,Low,15.0,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+494,44,Python Programming,38,7,3464,48,32,Medium,Low,6.0,0,Developing Customers,Recommended Learning Program: Advanced Python Programming Course
+495,19,Cloud Computing,60,11,7637,7,35,Medium,Medium,0.5833333333333334,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+496,22,Data Science,7,7,1463,21,81,Low,Low,2.625,2,Low Engagement Customers,Beginner Learning Program + Data Science Training Program
+497,46,Data Science,5,11,1036,42,100,Low,Low,3.5,0,Developing Customers,Beginner Learning Program + Data Science Training Program
+498,54,Cloud Computing,45,14,14391,26,18,Medium,High,1.7333333333333334,3,Highly Engaged Customers,Personalized Service Consultation + Cloud Computing Fundamentals
+499,36,AI and ML,58,14,7840,44,27,Medium,Medium,2.933333333333333,3,Highly Engaged Customers,Personalized Service Consultation + Artificial Intelligence and ML Program
+500,25,Web Development,31,5,14767,14,39,Low,High,2.3333333333333335,2,Low Engagement Customers,Beginner Learning Program + Full Stack Web Development Program
